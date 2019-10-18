@@ -20,6 +20,7 @@ $$ AS(i,j) = \frac{c_{ij}}{|i||j|} $$
 
 For mere teknisk breakdown af forskellige co-occurrence lighedsmål, se artiklen: van Eck & Waltman (2009) "How to Normalize Cooccurrence Data? An Analysis of Some Well-Known Similarity Measures". 
 
+ 
 ** Se også:
 - [[file:201910142049.org::*Proximity][Proximity]] 
 - [[file:201910142116.org::*Jaccard%20similarity][Jaccard similarity]] 
